@@ -1,0 +1,70 @@
+/* Design tokens. Source of truth: docs/PREMIUM_DESIGN.md */
+:root {
+  color-scheme: dark;
+
+  /* color */
+  --ink: #0A0E14;
+  --panel: #111821;
+  --panel-raised: #18212D;
+  --line: #253246;
+  --text: #E8EEF6;
+  --text-muted: #8C9BB0;
+  --accent: #7CC4FF;
+  --accent-ink: #06121F;
+  --ok: #34D3A1;
+  --warn: #F5B544;
+  --fail: #FF6B7A;
+
+  /* type */
+  --font-display: "Bricolage Grotesque Variable", "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+  --font-body: "Instrument Sans Variable", "Instrument Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono Variable", "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  --step--1: clamp(0.833rem, 0.81rem + 0.1vw, 0.9rem);
+  --step-0: clamp(1rem, 0.96rem + 0.2vw, 1.1rem);
+  --step-1: clamp(1.2rem, 1.12rem + 0.4vw, 1.4rem);
+  --step-2: clamp(1.44rem, 1.3rem + 0.7vw, 1.8rem);
+  --step-3: clamp(1.73rem, 1.5rem + 1.1vw, 2.4rem);
+  --step-5: clamp(2.5rem, 1.8rem + 3.2vw, 4rem);
+
+  /* space (4px base) */
+  --space-1: 4px;  --space-2: 8px;   --space-3: 12px; --space-4: 16px;
+  --space-5: 24px; --space-6: 32px;  --space-7: 48px; --space-8: 64px; --space-9: 96px;
+
+  /* shape */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-pill: 999px;
+  --highlight: inset 0 1px 0 rgba(255, 255, 255, 0.04);
+  --shadow-modal: 0 24px 64px rgba(0, 0, 0, 0.5);
+
+  /* motion */
+  --ease: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --dur-fast: 150ms;
+  --dur-panel: 350ms;
+
+  --container: 1200px;
+  --nav-height: 56px;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --ink: #F5F7FA;
+  --panel: #FFFFFF;
+  --panel-raised: #EEF2F7;
+  --line: #D5DDE8;
+  --text: #0F1722;
+  --text-muted: #55657A;
+  --accent: #0B6BCB;
+  --accent-ink: #FFFFFF;
+  --ok: #0E8F66;
+  --warn: #A66A00;
+  --fail: #C7303F;
+  --highlight: inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  --shadow-modal: 0 24px 64px rgba(15, 23, 34, 0.18);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root { --dur-fast: 0ms; --dur-panel: 0ms; }
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Akshay K",
+  "title": "Aspiring DevOps Engineer",
+  "tagline": "Computer Science student building and shipping systems, now going deep on DevOps and cloud.",
+  "location": "Bengaluru, India",
+  "email": "akshay44776@gmail.com",
+  "links": {
+    "github": "https://github.com/Akshay44776",
+    "linkedin": "https://www.linkedin.com/in/akshayk44776"
+  },
+  "about": "Final-year Computer Science student (8.67 CGPA) with a background in Java and hands-on experience building AI, blockchain and surveillance projects. Currently building foundations in DevOps and cloud: containers, CI/CD, infrastructure as code and monitoring. Eager to apply these skills to real-world work and learn from experienced engineers.",
+  "education": [
+    {
+      "degree": "Bachelor of Engineering, Computer Science & Engineering",
+      "institute": "S.J.B Institute of Technology, Bengaluru",
+      "years": "2023 - 2027",
+      "score": "CGPA 8.67 / 10"
+    },
+    {
+      "degree": "Pre-University Course (PUC)",
+      "institute": "Base PU College, Bengaluru",
+      "years": "2021 - 2023",
+      "score": "93%"
+    },
+    {
+      "degree": "SSLC",
+      "institute": "Sri Vani Education Center Trust, Bengaluru",
+      "years": "2020 - 2021",
+      "score": "95.20%"
+    }
+  ],
+  "publications": [
+    {
+      "title": "3D-Printed Medical Aids for Hemorrhage Control in Battlefield Conditions",
+      "venue": "ICRIET-2025",
+      "note": "Best Paper Award"
+    },
+    {
+      "title": "SkillM, a gamified offline e-learning platform",
+      "venue": "Educational Technology & Society (ET&S)",
+      "note": "Co-authored; submitted"
+    }
+  ],
+  "extracurricular": [
+    "Active member, STIC (SJBIT Technical and Innovation Club)",
+    "Fitness, outdoor activities, travel and motorcycle rides"
+  ],
+  "languages": [
+    {
+      "name": "Kannada",
+      "level": "Read, write, speak"
+    },
+    {
+      "name": "English",
+      "level": "Read, write, speak"
+    },
+    {
+      "name": "Hindi",
+      "level": "Read, write, speak"
+    },
+    {
+      "name": "Sanskrit",
+      "level": "Read"
+    }
+  ],
+  "resumeFile": "/resume.pdf"
+}

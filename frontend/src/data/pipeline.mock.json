@@ -1,0 +1,31 @@
+{
+  "repo": "Akshay44776/{{REPO}}",
+  "runs": [
+    {
+      "id": 1,
+      "workflow": "ci",
+      "branch": "main",
+      "commit": "abc1234",
+      "conclusion": "success",
+      "durationSec": 74,
+      "stages": [
+        {
+          "name": "lint",
+          "status": "success"
+        },
+        {
+          "name": "build",
+          "status": "success"
+        },
+        {
+          "name": "scan",
+          "status": "success"
+        },
+        {
+          "name": "deploy",
+          "status": "success"
+        }
+      ]
+    }
+  ]
+}

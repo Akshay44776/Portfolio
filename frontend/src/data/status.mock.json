@@ -1,0 +1,17 @@
+{
+  "updated": "2026-01-01T00:00:00Z",
+  "services": [
+    {
+      "name": "portfolio-web",
+      "status": "up",
+      "uptime30d": 99.9,
+      "latencyMs": 42
+    },
+    {
+      "name": "argus",
+      "status": "up",
+      "uptime30d": 99.5,
+      "latencyMs": 120
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0E14" />
+      <stop offset="100%" stop-color="#111821" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7CC4FF" />
+      <stop offset="100%" stop-color="#34D3A1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="950" cy="300" r="220" fill="#7CC4FF" opacity="0.08" />
+  <circle cx="300" cy="450" r="180" fill="#34D3A1" opacity="0.05" />
+  
+  <rect x="80" y="80" width="1040" height="470" rx="16" fill="#111821" stroke="#253246" stroke-width="2" />
+  
+  <circle cx="120" cy="120" r="6" fill="#FF6B7A" />
+  <circle cx="140" cy="120" r="6" fill="#F5B544" />
+  <circle cx="160" cy="120" r="6" fill="#34D3A1" />
+  <text x="190" y="125" fill="#8C9BB0" font-family="monospace" font-size="16">cluster://portfolio-prod.live</text>
+  
+  <text x="120" y="240" fill="#E8EEF6" font-family="sans-serif" font-weight="700" font-size="52">Akshay K</text>
+  <text x="120" y="300" fill="#7CC4FF" font-family="sans-serif" font-weight="600" font-size="32">Aspiring DevOps Engineer</text>
+  
+  <text x="120" y="370" fill="#8C9BB0" font-family="sans-serif" font-size="22">Portfolio as a Live Production System</text>
+  <text x="120" y="410" fill="#8C9BB0" font-family="monospace" font-size="18">CI/CD &bull; Artifact Registry &bull; Real-time Telemetry &bull; Interactive 3D Cluster</text>
+  
+  <rect x="120" y="460" width="140" height="38" rx="6" fill="#7CC4FF" />
+  <text x="144" y="485" fill="#0A0E14" font-family="sans-serif" font-weight="700" font-size="16">SYSTEM OK</text>
+  
+  <text x="290" y="485" fill="#34D3A1" font-family="monospace" font-size="16">&#x25CF; 99.9% UPTIME</text>
+</svg>

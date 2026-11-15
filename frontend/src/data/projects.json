@@ -1,0 +1,129 @@
+[
+  {
+    "slug": "argus",
+    "name": "ARGUS",
+    "tagline": "Decentralised AI-powered surveillance and investigation platform",
+    "year": "2026 (ongoing)",
+    "status": "deploying",
+    "stack": [
+      "YOLOv8",
+      "InsightFace",
+      "ArcFace",
+      "LangGraph",
+      "Llama 3.3 70B (Groq)",
+      "Tailscale/WireGuard",
+      "NATS/ZeroMQ",
+      "Redis"
+    ],
+    "problem": "Investigations need to follow a subject across many camera feeds without sending raw video to a central cloud.",
+    "highlights": [
+      "Owned model research and training for the perception stack: YOLOv8 for object and license-plate detection, ArcFace/InsightFace for face recognition and cross-camera re-identification, with all raw video processed locally.",
+      "Built the multi-camera tracking feature that follows a subject continuously across feeds by matching identities between nodes.",
+      "Built and trained an audio detection model, extending the pipeline to multi-modal (audio and video) evidence.",
+      "Currently exploring Kubernetes to scale the distributed node deployment (learning phase)."
+    ],
+    "incident": "{{ADD_SOMETHING_THAT_BROKE}}",
+    "rootCause": "{{ADD_ROOT_CAUSE}}",
+    "fix": "{{ADD_FIX}}",
+    "automation": "{{ADD_WHAT_YOU_AUTOMATED}}",
+    "links": {
+      "repo": "",
+      "demo": "https://argus-47.netlify.app",
+      "pipeline": ""
+    }
+  },
+  {
+    "slug": "verifarm",
+    "name": "VeriFarm",
+    "tagline": "Blockchain-based agricultural supply chain transparency platform",
+    "year": "2026",
+    "status": "healthy",
+    "stack": [
+      "Hyperledger Fabric",
+      "Go (chaincode)",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "React Native",
+      "Next.js",
+      "Python/FastAPI"
+    ],
+    "problem": "Consumers cannot easily verify the journey of agricultural products from farm to shelf.",
+    "highlights": [
+      "Built the consumer dashboard's QR-code scanning: scanning a product verifies its journey and records the check on the blockchain ledger.",
+      "Built a web dashboard for supply-chain visibility.",
+      "Took part in research and planning for the platform architecture.",
+      "Contributed to backend API design and development.",
+      "First Place, Cybersecurity and Blockchain track, ADVAYA 2.0 national-level 24-hour hackathon (BGSCET)."
+    ],
+    "incident": "{{ADD_SOMETHING_THAT_BROKE}}",
+    "rootCause": "{{ADD_ROOT_CAUSE}}",
+    "fix": "{{ADD_FIX}}",
+    "automation": "{{ADD_WHAT_YOU_AUTOMATED}}",
+    "links": {
+      "repo": "{{VERIFARM_REPO_URL}}",
+      "demo": "",
+      "pipeline": ""
+    }
+  },
+  {
+    "slug": "saathi",
+    "name": "SAATHI",
+    "tagline": "AI voice assistant with respiratory health analysis",
+    "year": "2026",
+    "status": "healthy",
+    "stack": [
+      "Python",
+      "NLP",
+      "Coswara dataset (IISc Bangalore)",
+      "Google Colab",
+      "Kaggle"
+    ],
+    "problem": "Users need a natural, conversational way to ask health questions and get a first signal on respiratory health.",
+    "highlights": [
+      "Designed a core part of the conversational engine: user query understanding and response generation.",
+      "Trained respiratory audio analysis models on the Coswara dataset for health-status classification and biological age regression.",
+      "Iteratively debugged training pipelines across Colab and Kaggle."
+    ],
+    "incident": "{{ADD_SOMETHING_THAT_BROKE}}",
+    "rootCause": "{{ADD_ROOT_CAUSE}}",
+    "fix": "{{ADD_FIX}}",
+    "automation": "{{ADD_WHAT_YOU_AUTOMATED}}",
+    "links": {
+      "repo": "",
+      "demo": "https://saathi-presentation.netlify.app",
+      "pipeline": ""
+    }
+  },
+  {
+    "slug": "axiom",
+    "name": "AXIOM",
+    "tagline": "Agentic Payment Protocol (AgPP) for autonomous AI agents",
+    "year": "2026",
+    "status": "healthy",
+    "stack": [
+      "Python",
+      "Algorand (ARC-4 smart contracts)",
+      "MiniLM-L6-v2",
+      "IsolationForest",
+      "FastAPI"
+    ],
+    "problem": "AI agents that pay for API access autonomously need identity, auditability and protection against abuse.",
+    "highlights": [
+      "Designed a 4-layer, 6-smart-contract payment governance protocol on Algorand, going beyond a standard x402 payment wrapper.",
+      "Implemented deterministic cryptographic agent identity, on-chain Merkle-tree Intent Documents as auditable reasoning receipts, and an SLA-contingent escrow with automatic refunds.",
+      "Built ML defences (semantic route verification and behavioural anomaly detection) across an 11-step payment pipeline.",
+      "Developed a Red Team CLI simulating 6 attack vectors to stress-test security before deployment.",
+      "Third Prize, Hack.Algo hackathon (GDG on Campus, REVA University) as team CleverFyre."
+    ],
+    "incident": "{{ADD_SOMETHING_THAT_BROKE}}",
+    "rootCause": "{{ADD_ROOT_CAUSE}}",
+    "fix": "{{ADD_FIX}}",
+    "automation": "{{ADD_WHAT_YOU_AUTOMATED}}",
+    "links": {
+      "repo": "https://github.com/Akshay44776/CleverFyre",
+      "demo": "",
+      "pipeline": ""
+    }
+  }
+]

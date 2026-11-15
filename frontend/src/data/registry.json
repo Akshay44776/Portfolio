@@ -1,0 +1,333 @@
+{
+  "certificates": [
+    {
+      "repository": "sjbit-cse/breakpoint-ideathon-2026",
+      "tag": "first-place",
+      "title": "First Place, Breakpoint Ideathon 2026 (Team The Outliers)",
+      "issuer": "SJB Institute of Technology, Dept. of CSE",
+      "kind": "achievement",
+      "credentialId": null,
+      "digest": "sha256:8f8ed18ee8a21905de4772eb7c7cfe33d9691d1cf87a295b84b04fbb837a2803",
+      "issued": "2026-10-15",
+      "verifyUrl": null,
+      "status": "on-file",
+      "file": "/certs/breakpoint-ideathon-first-place-2026.jpg",
+      "skills": [
+        "Innovation",
+        "Problem solving",
+        "Team pitch"
+      ]
+    },
+    {
+      "repository": "edureka/introduction-to-linux",
+      "tag": "v1.0",
+      "title": "Introduction to Linux",
+      "issuer": "Edureka (via Coursera)",
+      "kind": "course",
+      "credentialId": "J3LHNP9YD2Z8",
+      "digest": "sha256:3988c6ea59614b7ccad666571427de8ba2fe5652e9e1b38b0652e1233ea0a1bb",
+      "issued": "2026-08-04",
+      "verifyUrl": "https://coursera.org/verify/J3LHNP9YD2Z8",
+      "status": "verified",
+      "file": "/certs/edureka-introduction-to-linux.pdf",
+      "skills": [
+        "Linux"
+      ]
+    },
+    {
+      "repository": "ibm/introduction-to-devops",
+      "tag": "v1.0",
+      "title": "Introduction to DevOps",
+      "issuer": "IBM (via Coursera)",
+      "kind": "course",
+      "credentialId": "X3J7E5HS73IX",
+      "digest": "sha256:16ff23d620e473de4acf22ed9b0f04a044c04ff59d4b08251ea9403c53986116",
+      "issued": "2026-07-20",
+      "verifyUrl": "https://coursera.org/verify/X3J7E5HS73IX",
+      "status": "verified",
+      "file": "/certs/ibm-introduction-to-devops.pdf",
+      "skills": [
+        "DevOps fundamentals"
+      ]
+    },
+    {
+      "repository": "bgscet/advaya-2-0",
+      "tag": "first-place",
+      "title": "First Place, Cybersecurity and Blockchain track, ADVAYA 2.0 (24-hour national hackathon)",
+      "issuer": "BGS College of Engineering and Technology",
+      "kind": "achievement",
+      "credentialId": null,
+      "digest": "sha256:9ee28ad4da33de1543b17c14c97e5291739c95972ed859e1f5568e7a54b09845",
+      "issued": "2026-04-01",
+      "verifyUrl": null,
+      "status": "on-file",
+      "file": "/certs/advaya-2-0-first-place-2026.jpg",
+      "skills": [
+        "Blockchain",
+        "Cybersecurity",
+        "Hackathon"
+      ],
+      "eventDate": "2026-04-01/02",
+      "project": "verifarm"
+    },
+    {
+      "repository": "ieee-sjbit/impulse-innovathon",
+      "tag": "second-place",
+      "title": "Second Place, Innovathon, IMPULSE event",
+      "issuer": "IEEE SJBIT Student Branch (ECE Dept.)",
+      "kind": "achievement",
+      "credentialId": null,
+      "digest": "sha256:8a72a50b94fd03f773a91a5af0b7da40e1271292f8c362b5e5b07ecffce583dd",
+      "issued": "2026-03-26",
+      "verifyUrl": null,
+      "status": "on-file",
+      "file": "/certs/impulse-innovathon-2nd-place-2026.jpg",
+      "skills": [
+        "Innovation"
+      ],
+      "eventDate": "2026-03-26/27"
+    },
+    {
+      "repository": "reva-gdg/hack-algo",
+      "tag": "third-prize",
+      "title": "Third Prize, Hack.Algo Blockchain Hackathon (team CleverFyre)",
+      "issuer": "GDG on Campus, REVA University, sponsored by Algorand Bharat",
+      "kind": "achievement",
+      "credentialId": null,
+      "digest": "sha256:d3b13c23716a99699b8f2337f61556abc0e7c108843ed3ce13eb250f0e894bcd",
+      "issued": "{{YYYY-MM-DD}}",
+      "verifyUrl": null,
+      "status": "on-file",
+      "file": "/certs/hack-algo-third-prize-2026.jpg",
+      "skills": [
+        "Blockchain",
+        "Algorand",
+        "Smart contracts"
+      ],
+      "project": "axiom",
+      "note": "Photo of the prize board; no printed certificate"
+    },
+    {
+      "repository": "icriet-2025/best-research-paper",
+      "tag": "v1.0",
+      "title": "Best Research Paper: 3D-Printed Medical Aids for Hemorrhage Control in Battlefield Condition",
+      "issuer": "K.S. Institute of Technology (ICRIET-2025)",
+      "kind": "research",
+      "credentialId": null,
+      "digest": "sha256:a65fbf9c4d4e80fbf378c0e6f3b8cc0a78f52e666891cded8d03fd32225b87cb",
+      "issued": "2025-05-09",
+      "verifyUrl": null,
+      "status": "on-file",
+      "file": "/certs/icriet-2025-best-paper.jpg",
+      "skills": [
+        "Research",
+        "Technical writing"
+      ],
+      "eventDate": "2025-05-09/10",
+      "coAuthors": [
+        "Eshan H",
+        "Roopa D R",
+        "Sreenath Polackal"
+      ]
+    },
+    {
+      "repository": "icriet-2025/paper-presentation",
+      "tag": "v1.0",
+      "title": "Certificate of Appreciation: presented a research paper at ICRIET-2025",
+      "issuer": "K.S. Institute of Technology (ICRIET-2025)",
+      "kind": "research",
+      "credentialId": null,
+      "digest": "sha256:4f73125c5fdeb8bee51d849b2348d41475ec2a612fc95b624e78a23f3d656e13",
+      "issued": "2025-05-09",
+      "verifyUrl": null,
+      "status": "on-file",
+      "file": "/certs/icriet-2025-presentation.jpg",
+      "skills": [
+        "Research presentation"
+      ],
+      "eventDate": "2025-05-09/10"
+    },
+    {
+      "repository": "sjbit-ise/innovatex",
+      "tag": "second-place",
+      "title": "Second Place, InnovateX: Where Ideas Take Flight (ideathon)",
+      "issuer": "SJBIT Dept. of ISE with DLithe and NxtAlign Innovation",
+      "kind": "achievement",
+      "credentialId": null,
+      "digest": "sha256:b1bc1c2edbb05b1601dc52a61f3dcd61c2246910263c01a8c322e899bb8176e6",
+      "issued": "2025-03-25",
+      "verifyUrl": null,
+      "status": "on-file",
+      "file": "/certs/innovatex-2nd-place-2025.jpg",
+      "skills": [
+        "Innovation",
+        "Ideation"
+      ]
+    },
+    {
+      "repository": "sjbit-stic/idea-to-impact",
+      "tag": "excellence",
+      "title": "Certificate of Excellence: most valuable idea, Idea to Impact (team of three)",
+      "issuer": "SJBIT Technical and Innovation Club (STIC) with Institution's Innovation Council",
+      "kind": "achievement",
+      "credentialId": null,
+      "digest": "sha256:f1b39925e393ad8dc0307ecceaf34b986539703ce81767a9a89032ecbaf0ce6a",
+      "issued": "2024-12-06",
+      "verifyUrl": null,
+      "status": "on-file",
+      "file": "/certs/idea-to-impact-excellence-2024.jpg",
+      "skills": [
+        "Innovation",
+        "Pitching"
+      ]
+    }
+  ],
+  "inProgress": [
+    {
+      "name": "kubernetes-fundamentals",
+      "progress": 0,
+      "stage": "build",
+      "eta": "{{YYYY-MM}}"
+    }
+  ],
+  "releases": [
+    {
+      "version": "v2.4.0",
+      "date": "2026-10",
+      "title": "Breakpoint Ideathon winner",
+      "notes": [
+        "First Place, Breakpoint Ideathon 2026, SJBIT CSE (team The Outliers)"
+      ]
+    },
+    {
+      "version": "v2.3.0",
+      "date": "{{YYYY-MM}}",
+      "title": "Hack.Algo podium",
+      "notes": [
+        "Third Prize, Hack.Algo, GDG on Campus REVA University (project: AXIOM)"
+      ]
+    },
+    {
+      "version": "v2.2.0",
+      "date": "2026-08",
+      "title": "Linux foundations",
+      "notes": [
+        "Completed Introduction to Linux (Edureka, Coursera)"
+      ]
+    },
+    {
+      "version": "v2.1.0",
+      "date": "2026-07",
+      "title": "DevOps certification",
+      "notes": [
+        "Completed Introduction to DevOps (IBM, Coursera)"
+      ]
+    },
+    {
+      "version": "v2.0.0",
+      "date": "2026-04",
+      "title": "National-level win",
+      "notes": [
+        "First Place, Cybersecurity and Blockchain track, ADVAYA 2.0 national hackathon, BGSCET (project: VeriFarm)"
+      ]
+    },
+    {
+      "version": "v1.4.0",
+      "date": "2026-03",
+      "title": "IEEE Impulse podium",
+      "notes": [
+        "Second Place, Innovathon at IMPULSE, IEEE SJBIT Student Branch"
+      ]
+    },
+    {
+      "version": "v1.3.1",
+      "date": "{{YYYY-MM}}",
+      "title": "More hackathons",
+      "notes": [
+        "Second Place, AI Sthetica Hackathon, SJBIT",
+        "Reached Round 2, Adobe University Hackathon"
+      ]
+    },
+    {
+      "version": "v1.3.0",
+      "date": "2025-05",
+      "title": "Research recognition",
+      "notes": [
+        "Best Research Paper Award, ICRIET-2025",
+        "Co-authored SkillM paper, submitted to Educational Technology & Society"
+      ]
+    },
+    {
+      "version": "v1.2.0",
+      "date": "2025-03",
+      "title": "InnovateX podium",
+      "notes": [
+        "Second Place, InnovateX ideathon, SJBIT ISE"
+      ]
+    },
+    {
+      "version": "v1.1.0",
+      "date": "2024-12",
+      "title": "Most valuable idea",
+      "notes": [
+        "Certificate of Excellence, STIC Idea to Impact (most valuable idea)"
+      ]
+    },
+    {
+      "version": "v1.0.0",
+      "date": "2023",
+      "title": "Initial release",
+      "notes": [
+        "Started B.E. Computer Science & Engineering at S.J.B Institute of Technology"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": 70,
+      "status": "healthy"
+    },
+    {
+      "name": "Python",
+      "level": 65,
+      "status": "healthy"
+    },
+    {
+      "name": "Git and GitHub",
+      "level": 70,
+      "status": "healthy"
+    },
+    {
+      "name": "SQL",
+      "level": 60,
+      "status": "healthy"
+    },
+    {
+      "name": "HTML and CSS",
+      "level": 60,
+      "status": "healthy"
+    },
+    {
+      "name": "Linux",
+      "level": 30,
+      "status": "learning"
+    },
+    {
+      "name": "Cloud computing",
+      "level": 30,
+      "status": "learning"
+    },
+    {
+      "name": "DevOps fundamentals",
+      "level": 30,
+      "status": "learning"
+    },
+    {
+      "name": "Kubernetes",
+      "level": 15,
+      "status": "learning"
+    }
+  ],
+  "_note": "Skill levels are draft self-assessments; the owner must review and adjust them."
+}
